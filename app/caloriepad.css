@@ -1,0 +1,38 @@
+#caloriepad {
+  border: 1px solid #ded5c0;
+  border-radius: 5px;
+  font-family: "Hiragino Kaku Gothic Pro", "ヒラギノ角ゴ Pro W3", "Meiryo", "メイリオ", "Osaka", "MS PGothic", arial, helvetica, sans-serif;
+  font-size: 108%;
+}
+
+#caloriepad .caloriepad_title_wrapper {
+  background: #efe1be;
+  background-color: rgb(239, 225, 190);
+}
+
+#caloriepad .caloriepad_title {
+  border-bottom: none;
+  color: #4E2100;
+  font-size: 85%;
+  font-weight: bold;
+  padding: 5px 3px 3px 5px;
+}
+
+#caloriepad .caloriepad_content_wrapper {
+  padding: 6px 10px;
+}
+
+#caloriepad .caloriepad_content_wrapper .row {
+  border-bottom: 1px solid #E5E5E5;
+}
+
+#caloriepad .caloriepad_content_wrapper .name {
+  font-size: 93%;
+  font-weight: bold;
+}
+
+#caloriepad .caloriepad_content_wrapper .calorie {
+  font-size: 93%;
+  font-weight: bold;
+  text-align: right
+}
